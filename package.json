@@ -1,6 +1,6 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "Herpling-Launcher",
+    "preductname": "Herpling Launcher",
     "version": "2.0.7",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
